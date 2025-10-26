@@ -251,4 +251,5 @@ customer_coords = np.array([coords[n] for n in idx_to_cust])
   - Determine whether it is a pickup cust based on the next cust NO encountered
 - **some result pic**
   - ![Q5-1](images/Q5-1.png)
+
   - ![Q5-2](images/Q5-2.png)
