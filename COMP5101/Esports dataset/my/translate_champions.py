@@ -47,7 +47,7 @@ def translate_champions(file_path, translation_map):
         return None
 
 # --- 配置和执行 ---
-input_file = "2021_worlds_kda_final.csv"
+input_file = "MyColab/COMP5101/Esports dataset/my/2021_worlds_kda_final.csv"
 output_file = "2021_worlds_kda_final_cn.csv"
 
 df_translated = translate_champions(input_file, CHAMPION_TRANSLATION_MAP)
