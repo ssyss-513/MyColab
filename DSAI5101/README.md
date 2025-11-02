@@ -1,4 +1,4 @@
-# COMP5101 Project — Esports Data Analysis
+# DSAI5101 Project — Esports Data Analysis
 
 ## 📁 项目目录结构
 
@@ -43,7 +43,7 @@
 
 ```bash
 git clone <repository_url>
-cd COMP5101
+cd DSAI5101
 ```
 
 ### 2️⃣ 安装依赖
